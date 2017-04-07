@@ -7,6 +7,7 @@
 #include <unistd.h>		/*Prototypes for many system calls*/
 #include <errno.h>		/*Declares errno and defines error constatns*/
 #include <string.h>		/*Commonly used string-handling functions */
+#include <stdint.h>		/*definitions for int8_t, and the likes
 
 #include "get_num.h"		/* Declares our functions for handling numeric arguments (getInt(), getLong()) */
 
