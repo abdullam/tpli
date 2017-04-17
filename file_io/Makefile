@@ -1,6 +1,6 @@
 include ../Makefile.inc
 
-EXE = copy lseek
+EXE = copy lseek tee
 
 all : $(EXE)
 
